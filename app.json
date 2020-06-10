@@ -1,0 +1,17 @@
+{
+  "name": "countdown",
+  "displayName": "countdown",
+  "expo": {
+    "name": "countdown",
+    "slug": "countdown",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
