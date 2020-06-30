@@ -1,6 +1,6 @@
 This app is a countdown for events.
 
-The main technologies used is React Native, which uses Native code to build an app that will in both iOS and Android. Some other technologies used was moment, uuid and Expo.
+The main technologies used is React Native, which uses Native code to build an app that will work in both iOS and Android. Some other technologies used was moment, uuid and Expo.
 
 Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React. I used it as an iPhone immulator to check updates and as a debugging tool.
 
