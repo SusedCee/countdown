@@ -13,5 +13,6 @@
     "assetBundlePatterns": [
       "**/*"
     ]
-  }
+  },
+  "debuggerHost":"packager.2v-w3z.notbrent.internal.exp.direct:80",
 }
